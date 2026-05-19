@@ -24,7 +24,7 @@ A lightweight Flask-based GUI for chatting with local Ollama models, with option
 Clone the project:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Br9500/ollama_search_gui
 cd ollama.app
 ```
 
