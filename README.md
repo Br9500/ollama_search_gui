@@ -85,3 +85,5 @@ http://127.0.0.1:5000
 
 - Local chat works without `OLLAMA_API_KEY`
 - Web search requires `OLLAMA_API_KEY`
+
+![Screenshot](screenshot.png)
