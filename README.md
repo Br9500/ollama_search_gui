@@ -3,6 +3,9 @@
 
 A lightweight Flask-based GUI for chatting with local Ollama models, with optional web search and thinking controls in a clean minimalist interface.
 
+![Screenshot](screenshot.png)
+
+
 ## Features
 
 - Chat with locally installed Ollama models
@@ -85,5 +88,3 @@ http://127.0.0.1:5000
 
 - Local chat works without `OLLAMA_API_KEY`
 - Web search requires `OLLAMA_API_KEY`
-
-![Screenshot](screenshot.png)
